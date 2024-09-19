@@ -1,0 +1,42 @@
+{
+  "INTRODUCTION": [
+    {
+      "position": 1,
+      "type": "video",
+      "video_id": "BzVZkwYkLyE",
+      "video_title": "Lecture-01 || Physics by Sumit Sir",
+      "thumbnail": ""
+    }
+  ],
+  "PHY_SCIENCE": [
+    {
+      "position": 1,
+      "type": "video",
+      "video_id": "9DktyV4YY6Q",
+      "video_title": "Lecture-01 || Physics By Sumit Sir",
+      "thumbnail": ""
+    },
+    {
+      "position": 2,
+      "type": "video",
+      "video_id": "kQxsjfaXinI",
+      "video_title": "Lecture-02 || Physics by Sumit Sir",
+      "thumbnail": ""
+    },
+    {
+      "position": 3,
+      "type": "video",
+      "video_id": "mlwNzStGACo",
+      "video_title": "Lecture-03 || Physics by Sumit Sir",
+      "thumbnail": ""
+    }
+  ],
+  "PHY_SCIENCE_PDF": [
+    {
+      "position": 1,
+      "type": "pdf",
+      "pdf_link": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7547ad9c-cc66-467f-9946-f01eab0176ce.pdf",
+      "title": "Physics Lecture Notes PDF"
+    }
+  ]
+}
