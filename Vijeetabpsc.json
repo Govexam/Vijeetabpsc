@@ -29,6 +29,13 @@
       "video_id": "mlwNzStGACo",
       "video_title": "Lecture-03 || Physics by Sumit Sir",
       "thumbnail": ""
+    },
+    {
+      "position": 4,
+      "type": "video",
+      "video_id": "w_ORJImDGrs",
+      "video_title": "Lecture-04 || Physics by Sumit Sir",
+      "thumbnail": ""
     }
   ],
   "PHY_SCIENCE_PDF": [
@@ -36,6 +43,12 @@
       "position": 1,
       "type": "pdf",
       "pdf_link": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7547ad9c-cc66-467f-9946-f01eab0176ce.pdf",
+      "title": "Physics Lecture Notes PDF"
+    },
+    {
+      "position": 2,
+      "type": "pdf",
+      "pdf_link": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b68ffbd8-a22e-440e-9c01-48a0f39ad003.pdf",
       "title": "Physics Lecture Notes PDF"
     }
   ]
